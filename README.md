@@ -1,8 +1,11 @@
 # The Foodie API project
 
-This particular project has a special place in my heart because this was my first real-world pure javascript project
+This particular project has a special place in my heart because this was my first real-world pure javascript project.
 
 ---
+
+![Demo of the foodie app](markdownimg.png)
+[See live version](https://foodie-app-ruben.netlify.app/#5ed6604591c37cdc054bcd09)
 
 ### Description
 
