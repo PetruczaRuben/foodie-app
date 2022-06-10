@@ -8,7 +8,7 @@ This particular project has a special place in my heart because this was my firs
 
 ---
 
-### [See live version](https://foodie-app-ruben.netlify.app/#5ed6604591c37cdc054bcd09)
+### [See live version](https://foodie-api.netlify.app/#5ed6604591c37cdc054bcd09)
 
 ### Description
 
